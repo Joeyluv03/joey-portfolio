@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=Space+Mono&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Great+Vibes&family=Space+Mono&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Zeyada&display=swap');
+
+body {
+  background-image: linear-gradient(#dac4eb, white);
+  margin-bottom: 50px;
+  font-family: "PT Serif", serif;
+  color: #5b0781;
+  
+}
+
+.widecontainer {
+  position: relative;
+  width: 100%;
+  max-width: 1500px;
+  margin: 0 auto;
+  padding: 0 20px;
+  box-sizing: border-box;
+ }
+
+img {
+  border: 3px solid #555555;
+  border-color: #aa77d0;
+}
+
+.navbar {
+  background-color: #b386d5 !important;
+}
+
+.jumbotron {
+  background-color: #4d056f;
+  font-family: "Zeyada", zeyada;
+  color: #ffffff;
+}
+
+.w-100 {
+  width: 100% !important;
+  height: 500;
+}
+
+a:link {
+  color: #9a5ec7;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #9a5ec7;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #b386d5;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #9a5ec7;
+  background-color: transparent;
+  text-decoration: underline;
+}
